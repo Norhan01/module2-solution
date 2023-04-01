@@ -1,3 +1,2 @@
 # module2_solution
-coursera - module 2
-Module 2 Coding Assignment
+Here is my solution for our module 2 Assignment
